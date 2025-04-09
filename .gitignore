@@ -1,0 +1,9 @@
+# Directorios de compilación
+/build/
+/dist/
+
+# Archivos del sistema
+.DS_Store
+
+# Configuración local de NetBeans
+nbproject/private/
