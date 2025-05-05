@@ -11,8 +11,8 @@ class ControllerEntrenador {
     static LinkedList<Entrenador> listaEntrenadoresPokeMondonGo;
 
     public void gestionarEntrenadores() {
-        VistaMenu.menuGestionarEntrenadores();
-        mostrarEntrenadores(); //TODO: Esto es temporal acá se debe manejar la siguiente logica de la VistaMenu
+        VistaMenu.menuEntrenadores();
+        mostrarEntrenadores(); //TODO: Esto es temporal acá se debe manejar la siguiente logica de MENU ENTRENADORES
     }// gestionarEntrenadores()
 
     public static void mostrarEntrenadores() {
