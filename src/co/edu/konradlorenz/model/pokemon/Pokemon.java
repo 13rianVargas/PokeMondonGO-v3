@@ -52,12 +52,13 @@ public class Pokemon implements Serializable {
         return estado;
     }
 
-    //Complejidad temporal: O(1) Tiempo constante
-    public double atacar(Pokemon oponente) {
+    public void setEstado(EnumEstado estado) {
+        this.estado = estado;
+    }
+
+    public double ataqueNormal(Pokemon oponente) {
         try {
-            if (oponente == null) {
-                return 0.0;
-            }
+
             if (this.estado == EnumEstado.DEBILITADO) {
                 return 0.0;
             }
@@ -73,7 +74,6 @@ public class Pokemon implements Serializable {
         }
     }//atacar
 
-    //Complejidad temporal: O(1) Tiempo constante
     public void recibirDaño(double daño) {
         try {
             if (daño < 0) {
