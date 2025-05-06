@@ -1,7 +1,7 @@
 # 🕹️ PokeMondonGO v3
 
-¡Bienvenido a **PokeMondonGO**!  
-Este es un proyecto académico desarrollado originalmente en el semestre **2024-1** como parte de la materia de Técnicas de Programación I orientada a objetos en la Fundación Universitaria Konrad Lorenz.
+¡Bienvenido/a a **PokeMondonGO v3**!  
+Este es un proyecto académico desarrollado originalmente en el semestre **2024-1** como parte de la materia de Técnicas de Programación I en la Fundación Universitaria Konrad Lorenz.
 
 En el semestre **2024-1** trabajé en una primera versión funcional. Luego, en **2024-2**, implementé el patrón MVC, pero no pude continuar desarrollando más funcionalidades. Actualmente estoy trabajando en la **v3**, una versión completamente refactorizada, con una mejor estructura, enfoque en buenas prácticas de desarrollo, y con planes para incorporar una interfaz gráfica de usuario (GUI).
 
@@ -28,21 +28,22 @@ En esta nueva versión he aplicado mejoras importantes:
 
 - Java SE
 - NetBeans IDE
+- Postgree SQL (Soon...)
 
 ## 🧪 ¿Cómo probarlo?
 
 1. Clona este repositorio
 2. Ábrelo con NetBeans
-3. Ejecuta la clase `APlMain.java` desde el paquete principal
+3. Ejecuta la clase `AplMain.java` desde el paquete principal
 
 > Nota: No olvides revisar los archivos de configuración en `nbproject` si usas otra ruta de ejecución.
 
 ## 🤓 Autor
 
-Proyecto realizado por **Brian Steven Vargas Clavijo**  
+Proyecto realizado por **13rian Vargas**  
 Estudiante de Ingeniería de Sistemas – Konrad Lorenz  
 Miembro fundador del club de desarrollo [K-Forge](https://github.com/orgs/K-Forge)
 
 ---
 
-¡Gracias por pasarte por aquí! 😄
+Hecho con 💛 por Bri ☕
