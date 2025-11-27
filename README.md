@@ -2,8 +2,10 @@
 
 ![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/IDE-NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white)
-![Status](https://img.shields.io/badge/Status-En%20desarrollo-yellow)
+![Status](https://img.shields.io/badge/Status-Archivado-red)
 ![MVC](https://img.shields.io/badge/Arquitectura-MVC-blue)
+
+> ⚠️ **Nota:** Este repositorio será archivado. Fue un proyecto valioso para el aprendizaje, especialmente para practicar el uso de tablas de contenidos y documentación estructurada en GitHub.
 
 ¡Bienvenido/a a **PokeMondonGO v3**! 🎮
 
